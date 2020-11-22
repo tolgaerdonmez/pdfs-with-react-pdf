@@ -1,0 +1,1215 @@
+{
+  "threads": [
+    {
+      "data": [
+        {
+          "id": "1327024536986939392",
+          "tweet": "Don't build a product.<br /><br />Build a portfolio of small bets.<br /><br />Once you adopt this perspective, you become detached from the individual outcomes of your activities. Deciding what to do (and not to do) becomes a lot easier.",
+          "replies": [
+            {
+              "id": "1327024808719106048",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Similar to what <a href=\"https://twitter.com/levelsio\">@levelsio</a> does ? By creating small products and launching them early in the market ?",
+              "user": {
+                "public_metrics": {
+                  "followers_count": 45,
+                  "following_count": 63,
+                  "tweet_count": 39,
+                  "listed_count": 3
+                },
+                "verified": false,
+                "location": "Melbourne, Australia",
+                "url": "https://t.co/rvhbBhEBnj",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/rvhbBhEBnj",
+                        "expanded_url": "http://sagarjani.com",
+                        "display_url": "sagarjani.com"
+                      }
+                    ]
+                  }
+                },
+                "name": "Sagar Jani",
+                "id": "108305601",
+                "username": "@sagarjani",
+                "description": "Problem solver | Interested in tech & entrepreneurship | Software engineer at Dius (views are my own)",
+                "protected": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1294576127961309185/1SDB6OSD.jpg",
+                "created_at": "2010-01-25T14:28:40.000Z"
+              },
+              "answer": {
+                "id": "1327025156213014528",
+                "tweet": "<a href=\"https://twitter.com/sagarjani\">@sagarjani</a> <a href=\"https://twitter.com/levelsio\"><a href=\"https://twitter.com/levelsio\">@levelsio</a></a> Yep, @levelsio is the OG of this. <a href=\"https://twitter.com/searchbound\">@searchbound</a> too."
+              }
+            },
+            {
+              "id": "1327027131679989760",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> When do you decide that one product is big enough to launch the next one? Not talking about Info products here but SaaS.",
+              "user": {
+                "public_metrics": {
+                  "followers_count": 2294,
+                  "following_count": 130,
+                  "tweet_count": 21481,
+                  "listed_count": 117
+                },
+                "verified": false,
+                "location": "Hamburg",
+                "url": "https://t.co/kRF2JESuuy",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/kRF2JESuuy",
+                        "expanded_url": "https://www.youtube.com/c/videosofsumit",
+                        "display_url": "youtube.com/c/videosofsumit"
+                      }
+                    ]
+                  },
+                  "description": {
+                    "urls": [
+                      {
+                        "start": 9,
+                        "end": 32,
+                        "url": "https://t.co/1HW1mOSXix",
+                        "expanded_url": "http://tresor.one",
+                        "display_url": "tresor.one"
+                      },
+                      {
+                        "start": 34,
+                        "end": 57,
+                        "url": "https://t.co/HGd2AJOxjN",
+                        "expanded_url": "http://geoman.io",
+                        "display_url": "geoman.io"
+                      }
+                    ],
+                    "mentions": [
+                      {
+                        "start": 114,
+                        "end": 130,
+                        "username": "sharenow_global"
+                      }
+                    ]
+                  }
+                },
+                "name": "Sumit Kumar",
+                "id": "129525014",
+                "username": "@TweetsOfSumit",
+                "pinned_tweet_id": "1323176183001976832",
+                "description": "Maker of <a href=\"http://tresor.one\" class=\"description-link\" rel=\"noopener noreferrer\">tresor.one</a>, <a href=\"http://geoman.io\" class=\"description-link\" rel=\"noopener noreferrer\">geoman.io</a> and sharing the journey here. (Also Head of Engineering <a href=\"https://twitter.com/sharenow_global\">@sharenow_global</a>) Part-time adult.",
+                "protected": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1030418265598771200/2WcWmcWz.jpg",
+                "created_at": "2010-04-04T15:44:58.000Z"
+              },
+              "answer": {
+                "id": "1327028398959390720",
+                "tweet": "<a href=\"https://twitter.com/TweetsOfSumit\">@TweetsOfSumit</a> Ideally, you want to never be forced to give up on an activity just so that you can try something new. Of course, you'll always have to option to stop doing those things that are not working out, but you'd want to be able to defer that decision to any time in the future."
+              }
+            }
+          ]
+        },
+        {
+          "id": "1327303940820627457",
+          "tweet": "You can hear my elaborate take on this topic on the <a href=\"https://twitter.com/IndieHackers\">@IndieHackers</a> podcast: ",
+          "linkWithImage": {
+            "expanded_url": "https://share.transistor.fm/s/a446b662",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1327303944809353216/R7BmMXdD?format=jpg&name=orig",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1327303944809353216/R7BmMXdD?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "title": "#177 – Mastering the Lifestyle-First Approach to Indie Hacking with Daniel Vassallo | Indie Hackers | Episode 177",
+            "description": "When Daniel Vassallo (@dvassallo) quit his job to become an indie hacker, he was making over $500,000 per year. It could have been a disastrous choice. Instead, less than two years later, he's built a suite of products that most founders would envy. In this episode we discuss how Daniel minimizes risk by running multiple projects simultaneously, how he turns time into a friend instead of an enemy by lowering his costs, and how a lifestyle-first business mindset can make you both richer and happier.",
+            "domain": "share.transistor.fm"
+          },
+          "replies": []
+        }
+      ],
+      "common": {
+        "created_at": "Nov 13, 2020",
+        "user": {
+          "location": "Snohomish County, WA",
+          "username": "dvassallo",
+          "public_metrics": {
+            "followers_count": 51085,
+            "following_count": 195,
+            "tweet_count": 13942,
+            "listed_count": 789
+          },
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "start": 0,
+                  "end": 23,
+                  "url": "https://t.co/zlCVkcB3je",
+                  "expanded_url": "https://danielvassallo.com",
+                  "display_url": "danielvassallo.com"
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "start": 47,
+                  "end": 70,
+                  "url": "https://t.co/4frCkBmEo4",
+                  "expanded_url": "http://gumroad.com",
+                  "display_url": "gumroad.com"
+                },
+                {
+                  "start": 83,
+                  "end": 106,
+                  "url": "https://t.co/CP5YrWTk2Y",
+                  "expanded_url": "http://userbase.com",
+                  "display_url": "userbase.com"
+                },
+                {
+                  "start": 121,
+                  "end": 144,
+                  "url": "https://t.co/9p3JEJHt2b",
+                  "expanded_url": "http://dvassallo.gumroad.com",
+                  "display_url": "dvassallo.gumroad.com"
+                }
+              ]
+            }
+          },
+          "name": "Daniel Vassallo",
+          "description": "A portfolio of small bets <br />- Quarter-time with <a href=\"http://gumroad.com\" class=\"description-link\" rel=\"noopener noreferrer\">gumroad.com</a> <br />- Building <a href=\"http://userbase.com\" class=\"description-link\" rel=\"noopener noreferrer\">userbase.com</a> <br />- Creator on <a href=\"http://dvassallo.gumroad.com\" class=\"description-link\" rel=\"noopener noreferrer\">dvassallo.gumroad.com</a> <br />- AMA daniel@hey.com",
+          "id": "24179991",
+          "protected": false,
+          "url": "https://t.co/zlCVkcB3je",
+          "created_at": "2009-03-13T14:34:10.000Z",
+          "verified": false,
+          "profile_image_url": "https://pbs.twimg.com/profile_images/1251370705985302528/S3hD_wEU.jpg"
+        },
+        "count": 2
+      }
+    },
+    {
+      "common": {
+        "created_at": "Nov 18, 2020",
+        "count": 1
+      },
+      "data": [
+        {
+          "id": "1329104258642243584",
+          "tweet": "If we need to bail out 45 million student loan borrowers, maybe most degrees aren’t a very good investment.",
+          "replies": [
+            {
+              "id": "1329212232387932160",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Or maybe college is overpriced and a college degree overvalued.",
+              "user": {
+                "username": "@87_htebazile",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/967107175532367874/rOnzyjQt.jpg",
+                "public_metrics": {
+                  "followers_count": 115,
+                  "following_count": 160,
+                  "tweet_count": 9036,
+                  "listed_count": 7
+                },
+                "verified": false,
+                "url": "",
+                "created_at": "2017-03-16T15:05:19.000Z",
+                "description": "‘We want to unify our country by dividing it by race’. \n~The Democrat Party",
+                "protected": false,
+                "name": "Elizabeth78",
+                "id": "842391335151783936"
+              },
+              "answer": {
+                "id": "1329214010391031808",
+                "tweet": "<a href=\"https://twitter.com/87_htebazile\">@87_htebazile</a> That's what makes it a bad investment (on average). Of course, some degrees aren't."
+              }
+            },
+            {
+              "id": "1329194717012140033",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Increase in cost of education probably has outpaced growth of earnings potential in many fields",
+              "user": {
+                "username": "@trapcap2",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1038616290586451969/EFThxT3b.jpg",
+                "public_metrics": {
+                  "followers_count": 44,
+                  "following_count": 954,
+                  "tweet_count": 807,
+                  "listed_count": 0
+                },
+                "location": "NC & CA",
+                "verified": false,
+                "url": "",
+                "created_at": "2018-09-09T02:24:59.000Z",
+                "description": "here for biotech, sports, stocks and news.",
+                "protected": false,
+                "name": "trapcap",
+                "id": "1038614210291408896"
+              },
+              "answer": {
+                "id": "1329194934478327808",
+                "tweet": "<a href=\"https://twitter.com/trapcap2\">@trapcap2</a> Increase in certification did. Education is mostly cheaper thanks to the internet."
+              }
+            },
+            {
+              "id": "1329176700433944576",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> If I get a loan right now for a full ride for college will it be forgiven next year",
+              "user": {
+                "username": "@DanielV27409492",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1295303102904631296/TaFE-c97.jpg",
+                "public_metrics": {
+                  "followers_count": 4,
+                  "following_count": 60,
+                  "tweet_count": 123,
+                  "listed_count": 0
+                },
+                "verified": false,
+                "url": "",
+                "created_at": "2020-08-17T10:13:35.000Z",
+                "description": "just here to make friends",
+                "protected": false,
+                "name": "Daniel Villarreal",
+                "id": "1295302717146124288"
+              },
+              "answer": {
+                "id": "1329178573358338049",
+                "tweet": "<a href=\"https://twitter.com/DanielV27409492\">@DanielV27409492</a> Don't think so, but you'll still have the car :)"
+              }
+            },
+            {
+              "id": "1329165822342795264",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Agreed there. The expectation in the US that you MUST have a degree is mind blowing. There are loads of possibilities and more so today to be as successful. <br /><br />Completing any form of degree in Australia is a rarer choice for most.",
+              "user": {
+                "username": "@Tugbota",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1305355124227715073/USgrzPYe.jpg",
+                "public_metrics": {
+                  "followers_count": 10,
+                  "following_count": 133,
+                  "tweet_count": 31,
+                  "listed_count": 0
+                },
+                "location": "Perth, Western Australia",
+                "verified": false,
+                "url": "https://t.co/kXprz70VPC",
+                "created_at": "2015-06-06T13:50:20.000Z",
+                "description": "Marine Engineer, Technical Manager, helping the Marine industry modernize & simplify operations.<br /><br />@ Tiller Technical",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/kXprz70VPC",
+                        "expanded_url": "https://tillertechnical.com/",
+                        "display_url": "tillertechnical.com"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Drew Pirrit",
+                "id": "3237931862"
+              },
+              "answer": {
+                "id": "1329166282860552193",
+                "tweet": "<a href=\"https://twitter.com/Tugbota\">@Tugbota</a> As an immigrant from Europe, the most mind blowing thing is that even professional athletes have to go to college to start their sporting career."
+              }
+            },
+            {
+              "id": "1329150296006733824",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Or the cost of the degree is over priced",
+              "user": {
+                "username": "@me_dantuck",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1330268145077145602/WN9j9DNp.jpg",
+                "public_metrics": {
+                  "followers_count": 46,
+                  "following_count": 299,
+                  "tweet_count": 1482,
+                  "listed_count": 6
+                },
+                "location": "Colorado",
+                "verified": false,
+                "url": "https://t.co/dsaTuNYxJm",
+                "created_at": "2013-11-12T16:27:33.000Z",
+                "description": "Hi! I'm a Husband, Father and Developer. Check out my interests and articles @ <a href=\"http://dantuck.com\" class=\"description-link\" rel=\"noopener noreferrer\">dantuck.com</a> <a href=\"https://twitter.com/hashtag/LGRW\">#LGRW</a>",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/dsaTuNYxJm",
+                        "expanded_url": "https://www.dantuck.com",
+                        "display_url": "dantuck.com"
+                      }
+                    ]
+                  },
+                  "description": {
+                    "urls": [
+                      {
+                        "start": 79,
+                        "end": 102,
+                        "url": "https://t.co/QnRrlo9oFe",
+                        "expanded_url": "http://dantuck.com",
+                        "display_url": "dantuck.com"
+                      }
+                    ],
+                    "hashtags": [
+                      {
+                        "start": 103,
+                        "end": 108,
+                        "tag": "LGRW"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Daniel",
+                "id": "2190649519"
+              },
+              "answer": {
+                "id": "1329150644654010369",
+                "tweet": "<a href=\"https://twitter.com/me_dantuck\">@me_dantuck</a> That's what makes it a bad investment (on average)."
+              }
+            },
+            {
+              "id": "1329147999092609029",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> That's a hyper-capitalist viewpoint.  Knowledge always has value, our society has just been convinced to be blinded to it.",
+              "user": {
+                "username": "@ChaseRaz",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/949732181030703104/sanZRqZc.jpg",
+                "public_metrics": {
+                  "followers_count": 576,
+                  "following_count": 156,
+                  "tweet_count": 8224,
+                  "listed_count": 35
+                },
+                "location": "United States",
+                "verified": false,
+                "url": "https://t.co/79hCsh8jAP",
+                "created_at": "2010-05-13T15:37:59.000Z",
+                "description": "Professor, Corporate Trainer.<br /><a href=\"https://twitter.com/rcrbiz\">@rcrbiz</a> owner; <a href=\"https://twitter.com/FullSail\">@FullSail</a> instructor; <a href=\"https://twitter.com/ABGammaTraining\">@ABGammaTraining</a>. <a href=\"https://twitter.com/hashtag/biztech\">#biztech</a> <a href=\"https://twitter.com/hashtag/martech\">#martech</a> Thoughts are mine.  Resistance is futile.",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/79hCsh8jAP",
+                        "expanded_url": "https://chaseraz.com",
+                        "display_url": "chaseraz.com"
+                      }
+                    ]
+                  },
+                  "description": {
+                    "hashtags": [
+                      {
+                        "start": 85,
+                        "end": 93,
+                        "tag": "biztech"
+                      },
+                      {
+                        "start": 94,
+                        "end": 102,
+                        "tag": "martech"
+                      }
+                    ],
+                    "mentions": [
+                      {
+                        "start": 30,
+                        "end": 37,
+                        "username": "rcrbiz"
+                      },
+                      {
+                        "start": 45,
+                        "end": 54,
+                        "username": "FullSail"
+                      },
+                      {
+                        "start": 67,
+                        "end": 83,
+                        "username": "ABGammaTraining"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Chase Raz 🦃♻️🧢",
+                "id": "143478292"
+              },
+              "answer": {
+                "id": "1329148673339449344",
+                "tweet": "<a href=\"https://twitter.com/ChaseRaz\">@ChaseRaz</a> Yes, knowledge always has value, and acquiring knowledge always has a cost.<br /><br />I'm pointing out that *on average*, it seems like the cost of acquiring knowledge from a degree is not paying off, since people are struggling to recoup their financial investment, let alone their time."
+              }
+            },
+            {
+              "id": "1329144993542402048",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Theres millionaires and billionaires being bailed out every year and u tweet about poor people? Wat a clown",
+              "user": {
+                "username": "@maxjabsco",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1140426999539757056/mU36dgrp.jpg",
+                "public_metrics": {
+                  "followers_count": 4,
+                  "following_count": 82,
+                  "tweet_count": 200,
+                  "listed_count": 0
+                },
+                "verified": false,
+                "url": "",
+                "created_at": "2019-06-17T01:08:46.000Z",
+                "description": "",
+                "protected": false,
+                "name": "Max",
+                "id": "1140426021897793537"
+              },
+              "answer": {
+                "id": "1329145744570216449",
+                "tweet": "<a href=\"https://twitter.com/maxjabsco\">@maxjabsco</a> Indeed"
+              }
+            },
+            {
+              "id": "1329123315609374721",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> False",
+              "user": {
+                "username": "@@@MichalBryxi",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1211609961417125889/WXYe08kh.jpg",
+                "public_metrics": {
+                  "followers_count": 727,
+                  "following_count": 1711,
+                  "tweet_count": 15497,
+                  "listed_count": 38
+                },
+                "location": "Edinburgh, Scotland",
+                "verified": false,
+                "url": "https://t.co/yyqQVpzkjg",
+                "created_at": "2011-01-17T05:57:48.000Z",
+                "description": "- bike <img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"🚴\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f6b4.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f6b4.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f6b4.svg\"/><br />- run <img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"🏃🏻\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f3c3-1f3fb.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f3c3-1f3fb.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f3c3-1f3fb.svg\"/>‍<br />- climb <img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"🧗\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f9d7.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f9d7.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f9d7.svg\"/><br />- travel <img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"🌍\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f30d.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f30d.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f30d.svg\"/><br />- enjoy life <img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"<img class=\"emoji\" draggable=\"false\" alt=\"💚\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f49a.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f49a.svg\"/>\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f49a.svg\"/><br /><br />IT guy (he/him) with the need to live fully.",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/yyqQVpzkjg",
+                        "expanded_url": "https://www.pudr.com",
+                        "display_url": "pudr.com"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Michal Bryxí",
+                "id": "239260929"
+              },
+              "answer": {
+                "id": "1329124287748263938",
+                "tweet": "<a href=\"https://twitter.com/MichalBryxi\">@MichalBryxi</a> How so?"
+              }
+            },
+            {
+              "id": "1329122608009277440",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> This is partially true, but not the root problem. The cost of a degree has doubled over the last 20 years, and is growing at &gt;5% YoY. This coupled with stagnant income results in decreasing disposable income YoY. The solution is to reduce the cost of college, or increase pay.",
+              "user": {
+                "username": "@jakelitwicki",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1326045156416520192/8MUe2q_b.jpg",
+                "public_metrics": {
+                  "followers_count": 422,
+                  "following_count": 213,
+                  "tweet_count": 1293,
+                  "listed_count": 9
+                },
+                "location": "Maple Valley, WA",
+                "verified": false,
+                "url": "https://t.co/LZc5xaw4Lt",
+                "created_at": "2012-02-01T15:42:17.000Z",
+                "description": "Sr. SDM <a href=\"https://twitter.com/AWSAmplify\">@AWSAmplify</a>. <a href=\"https://twitter.com/hashtag/wallpc\">#wallpc</a> video gamer, <a href=\"https://twitter.com/hashtag/whitesox\">#whitesox</a> Baseball lover, software maker, hiker, and woodworker",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/LZc5xaw4Lt",
+                        "expanded_url": "https://www.jakelitwicki.com",
+                        "display_url": "jakelitwicki.com"
+                      }
+                    ]
+                  },
+                  "description": {
+                    "hashtags": [
+                      {
+                        "start": 21,
+                        "end": 28,
+                        "tag": "wallpc"
+                      },
+                      {
+                        "start": 42,
+                        "end": 51,
+                        "tag": "whitesox"
+                      }
+                    ],
+                    "mentions": [
+                      {
+                        "start": 8,
+                        "end": 19,
+                        "username": "AWSAmplify"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Jake Litwicki",
+                "id": "480508795"
+              },
+              "answer": {
+                "id": "1329124107707846656",
+                "tweet": "<a href=\"https://twitter.com/jakelitwicki\">@jakelitwicki</a> Don’t know if these numbers are 100% accurate, but if they are in-state college doesn’t seem very expensive. Should be easy to cover with a part-time job on weekends. ",
+                "customMedia": {
+                  "photo": [
+                    {
+                      "width": 946,
+                      "height": 2048,
+                      "preview_img_url": "https://pbs.twimg.com/media/EnH_VKLVkAIiI-W.jpg",
+                      "link": "https://twitter.com/dvassallo/status/1329124107707846656/photo/1"
+                    }
+                  ],
+                  "video": [],
+                  "animated_gif": []
+                }
+              }
+            },
+            {
+              "id": "1329121661019369472",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Or, you know, studying shouldn't cost a fortune to begin with?",
+              "user": {
+                "username": "@pvdsp",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1112033791407804416/id0XQxb-.jpg",
+                "public_metrics": {
+                  "followers_count": 57,
+                  "following_count": 96,
+                  "tweet_count": 22,
+                  "listed_count": 0
+                },
+                "location": "Belgium",
+                "verified": false,
+                "url": "https://t.co/hu66iGjCWF",
+                "created_at": "2011-09-10T15:48:01.000Z",
+                "description": "student MSc in computer science — <a href=\"https://twitter.com/vubrussel\">@vubrussel</a>",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/hu66iGjCWF",
+                        "expanded_url": "http://patrick.vanderspie.gl",
+                        "display_url": "patrick.vanderspie.gl"
+                      }
+                    ]
+                  },
+                  "description": {
+                    "mentions": [
+                      {
+                        "start": 34,
+                        "end": 44,
+                        "username": "vubrussel"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Patrick Van der Spiegel",
+                "id": "371300525"
+              },
+              "answer": {
+                "id": "1329122695083016192",
+                "tweet": "<a href=\"https://twitter.com/pvdsp\">@pvdsp</a> In-state college education is not that expensive. $10K/yr and you can stay with you parents. A part-time job on weekends will more than pay for it. But many go out of state and spend 5X that."
+              }
+            },
+            {
+              "id": "1329119085150482433",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Do all of them need bailing out?",
+              "user": {
+                "username": "@GuruAnaerobic",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/2785853307/3f8e8af375e6b67ea4ce9c53544a3aee.jpeg",
+                "public_metrics": {
+                  "followers_count": 14891,
+                  "following_count": 324,
+                  "tweet_count": 35744,
+                  "listed_count": 283
+                },
+                "verified": false,
+                "url": "",
+                "pinned_tweet_id": "1197332309327990790",
+                "created_at": "2012-08-31T14:45:27.000Z",
+                "description": "Gang Fit (Pt 1)  -  <a href=\"http://gumroad.com/l/eipBr\" class=\"description-link\" rel=\"noopener noreferrer\">gumroad.com/l/eipBr</a>   <br />Gang Fit (Pt 2)  -  <a href=\"http://gumroad.com/l/bEhTL\" class=\"description-link\" rel=\"noopener noreferrer\">gumroad.com/l/bEhTL</a><br />Gang Fit (Pt 3)  -  <a href=\"https://gumroad.com/l/KgCWV\" class=\"description-link\" rel=\"noopener noreferrer\">gumroad.com/l/KgCWV</a>",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "start": 20,
+                        "end": 43,
+                        "url": "https://t.co/sWo3uVejZ5",
+                        "expanded_url": "http://gumroad.com/l/eipBr",
+                        "display_url": "gumroad.com/l/eipBr"
+                      },
+                      {
+                        "start": 67,
+                        "end": 90,
+                        "url": "https://t.co/aNSmPIOrMY",
+                        "expanded_url": "http://gumroad.com/l/bEhTL",
+                        "display_url": "gumroad.com/l/bEhTL"
+                      },
+                      {
+                        "start": 111,
+                        "end": 134,
+                        "url": "https://t.co/9mX4WmyiBP",
+                        "expanded_url": "https://gumroad.com/l/KgCWV",
+                        "display_url": "gumroad.com/l/KgCWV"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "GuruAnaerobic",
+                "id": "794010396"
+              },
+              "answer": {
+                "id": "1329120529094123520",
+                "tweet": "<a href=\"https://twitter.com/GuruAnaerobic\">@GuruAnaerobic</a> Almost certainly not. It was two rhetorical questions in one :) — No need to bail out everyone, and college degrees in the US are likely not a good investment on average since people are struggling to recoup the money spent, let alone their time."
+              }
+            },
+            {
+              "id": "1329118219060310018",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> How is in Malta ? You made a load to pay your studies ?",
+              "user": {
+                "username": "@chiovari",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/896442286413934596/SPyudGNh.jpg",
+                "public_metrics": {
+                  "followers_count": 136,
+                  "following_count": 131,
+                  "tweet_count": 1165,
+                  "listed_count": 3
+                },
+                "location": "Belgium",
+                "verified": false,
+                "url": "",
+                "created_at": "2007-12-21T13:48:09.000Z",
+                "description": "Software architect",
+                "protected": false,
+                "name": "cristian.chiovari",
+                "id": "11404032"
+              },
+              "answer": {
+                "id": "1329119010630160387",
+                "tweet": "<a href=\"https://twitter.com/chiovari\">@chiovari</a> You actually get a monthly stipend to attend University in Malta. It’s about €100/mo I think, but varies per course. I did a private degree via correspondence with the University of London. It costed about €3K, but I spent those 4 years working full-time."
+              }
+            },
+            {
+              "id": "1329113854211624960",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> There shouldn't be an \"ROI\" for education. It's not a stock. And education isn't just about making money.",
+              "user": {
+                "username": "@@@dustin_driver",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1315705622449418240/mwM7cq29.jpg",
+                "public_metrics": {
+                  "followers_count": 829,
+                  "following_count": 1220,
+                  "tweet_count": 5989,
+                  "listed_count": 9
+                },
+                "location": "Portland, OR",
+                "verified": false,
+                "url": "https://t.co/x0p5tfRUB5",
+                "pinned_tweet_id": "1301581897236062209",
+                "created_at": "2010-01-12T19:02:51.000Z",
+                "description": "Writer/baker/day dreamer: <a href=\"http://dustindriver.com\" class=\"description-link\" rel=\"noopener noreferrer\">dustindriver.com</a> he/him <a href=\"https://twitter.com/FictionBot3000\" class=\"description-link\" rel=\"noopener noreferrer\">twitter.com/FictionBot3000</a>",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/x0p5tfRUB5",
+                        "expanded_url": "http://dustindriver.com",
+                        "display_url": "dustindriver.com"
+                      }
+                    ]
+                  },
+                  "description": {
+                    "urls": [
+                      {
+                        "start": 26,
+                        "end": 49,
+                        "url": "https://t.co/x0p5tfRUB5",
+                        "expanded_url": "http://dustindriver.com",
+                        "display_url": "dustindriver.com"
+                      },
+                      {
+                        "start": 57,
+                        "end": 80,
+                        "url": "https://t.co/P63VgcMJMa",
+                        "expanded_url": "https://twitter.com/FictionBot3000",
+                        "display_url": "twitter.com/FictionBot3000"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Dustin Driver",
+                "id": "104243474"
+              },
+              "answer": {
+                "id": "1329115140424306691",
+                "tweet": "<a href=\"https://twitter.com/dustin_driver\">@dustin_driver</a> Education is an investment because our time, money, and attention are finite."
+              }
+            },
+            {
+              "id": "1329114007341469696",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Why are you like this",
+              "user": {
+                "username": "@@@dustin_driver",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1315705622449418240/mwM7cq29.jpg",
+                "public_metrics": {
+                  "followers_count": 829,
+                  "following_count": 1220,
+                  "tweet_count": 5989,
+                  "listed_count": 9
+                },
+                "location": "Portland, OR",
+                "verified": false,
+                "url": "https://t.co/x0p5tfRUB5",
+                "pinned_tweet_id": "1301581897236062209",
+                "created_at": "2010-01-12T19:02:51.000Z",
+                "description": "Writer/baker/day dreamer: <a href=\"http://dustindriver.com\" class=\"description-link\" rel=\"noopener noreferrer\">dustindriver.com</a> he/him <a href=\"https://twitter.com/FictionBot3000\" class=\"description-link\" rel=\"noopener noreferrer\">twitter.com/FictionBot3000</a>",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/x0p5tfRUB5",
+                        "expanded_url": "http://dustindriver.com",
+                        "display_url": "dustindriver.com"
+                      }
+                    ]
+                  },
+                  "description": {
+                    "urls": [
+                      {
+                        "start": 26,
+                        "end": 49,
+                        "url": "https://t.co/x0p5tfRUB5",
+                        "expanded_url": "http://dustindriver.com",
+                        "display_url": "dustindriver.com"
+                      },
+                      {
+                        "start": 57,
+                        "end": 80,
+                        "url": "https://t.co/P63VgcMJMa",
+                        "expanded_url": "https://twitter.com/FictionBot3000",
+                        "display_url": "twitter.com/FictionBot3000"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Dustin Driver",
+                "id": "104243474"
+              },
+              "answer": {
+                "id": "1329114197741899776",
+                "tweet": "<a href=\"https://twitter.com/dustin_driver\">@dustin_driver</a> Like what?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "common": {
+        "created_at": "Nov 19, 2020",
+        "count": 4
+      },
+      "data": [
+        {
+          "id": "1329145539431002112",
+          "tweet": "Some of my favorite books and my main takeaway:",
+          "replies": [
+            {
+              "id": "1329418553590734849",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Did you read Good to Great? Read 10+ years ago, and it’s still one from which I extract most actionable insights (Level 5 leader, under promisse, over deliver).",
+              "user": {
+                "created_at": "2008-04-24T02:51:39.000Z",
+                "public_metrics": {
+                  "followers_count": 507,
+                  "following_count": 401,
+                  "tweet_count": 2415,
+                  "listed_count": 27
+                },
+                "username": "@mpaulaoliveira",
+                "location": "Dubai, United Arab Emirates",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/GkFO41m3Bz",
+                        "expanded_url": "http://www.mariapaulaoliveira.com",
+                        "display_url": "mariapaulaoliveira.com"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "MP",
+                "pinned_tweet_id": "1298322670954729473",
+                "description": "Chief Innovation Officer at EY MENA (Middle East & North Africa). Pumping startup blood into corporate veins. 4x innovation leader. 2x Silicon Valley co-founder",
+                "id": "14505582",
+                "url": "https://t.co/GkFO41m3Bz",
+                "verified": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1199255780500922369/hq1CWtOM.jpg"
+              },
+              "answer": {
+                "id": "1329443069171806209",
+                "tweet": "<a href=\"https://twitter.com/mpaulaoliveira\">@mpaulaoliveira</a> I heard about it in The Halo Effect. The author was critical of some of the observations. I might check it out for myself though :)<br /><br />",
+                "linkWithImage": {
+                  "expanded_url": "https://knowledge.wharton.upenn.edu/article/the-halo-effect-debunking-some-hot-business-books-with-one-of-his-own/",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1329443069654147073/5BO0zBNj?format=png&name=orig",
+                      "width": 560,
+                      "height": 180
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1329443069654147073/5BO0zBNj?format=png&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "title": "The Halo Effect: Debunking Some Hot Business Books with One of His Own",
+                  "description": "In The Halo Effect ... and the Eight Other Business Delusions That Deceive Managers, Phil Rosenzweig tears into some of the most popular business books of recent years, including the bestsellers In",
+                  "domain": "knowledge.wharton.upenn.edu"
+                }
+              }
+            },
+            {
+              "id": "1329431512966721539",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\"><a href=\"https://twitter.com/dvassallo\">@dvassallo</a></a> @dvassallo how to develop an addiction towards reading books",
+              "user": {
+                "created_at": "2017-11-30T16:40:59.000Z",
+                "public_metrics": {
+                  "followers_count": 13,
+                  "following_count": 206,
+                  "tweet_count": 176,
+                  "listed_count": 1
+                },
+                "username": "@syd_fyz",
+                "protected": false,
+                "name": "seyed fayaz",
+                "description": "young and fun.\nSelf-Made.\nPersonal Thoughts.\nLess time. more opportunities.",
+                "id": "936273865994534913",
+                "url": "",
+                "verified": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1319139182137098241/ccChWD0g.jpg"
+              },
+              "answer": {
+                "id": "1329441728714170371",
+                "tweet": "<a href=\"https://twitter.com/syd_fyz\">@syd_fyz</a> Don't know. I just read when I'm interested in something."
+              }
+            },
+            {
+              "id": "1329380434895986688",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Thanks, which one of these has left the most lasting impression?",
+              "user": {
+                "created_at": "2009-06-04T22:42:26.000Z",
+                "public_metrics": {
+                  "followers_count": 52,
+                  "following_count": 412,
+                  "tweet_count": 583,
+                  "listed_count": 0
+                },
+                "username": "@AnnaBetina",
+                "location": "London",
+                "protected": false,
+                "name": "Anna Betina",
+                "description": "Ubi bene, ibi patria. a constant emigrant of place and mind. the written word, art, media. politically orphaned",
+                "id": "44749269",
+                "url": "",
+                "verified": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/571253043712421888/zuwQ7EzQ.jpeg"
+              },
+              "answer": {
+                "id": "1329414800326098945",
+                "tweet": "<a href=\"https://twitter.com/AnnaBetina\">@AnnaBetina</a> Probably Antifragile, but all did in some way."
+              }
+            },
+            {
+              "id": "1329213614037889028",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Fair bit of Nassim in there",
+              "user": {
+                "created_at": "2010-04-07T13:28:41.000Z",
+                "public_metrics": {
+                  "followers_count": 1564,
+                  "following_count": 1066,
+                  "tweet_count": 12794,
+                  "listed_count": 30
+                },
+                "username": "@trainthinkearn",
+                "location": "WARNING: I will pitch you👇",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/B1CYQozLjR",
+                        "expanded_url": "https://gumroad.com/a/334853235/KtaQm",
+                        "display_url": "gumroad.com/a/334853235/Kt…"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Allen Says",
+                "description": "Copywriting Fanboy",
+                "id": "130500677",
+                "url": "https://t.co/B1CYQozLjR",
+                "verified": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1255956791336349696/bp1YEA8-.jpg"
+              },
+              "answer": {
+                "id": "1329213762612588544",
+                "tweet": "<a href=\"https://twitter.com/trainthinkearn\">@trainthinkearn</a> I like him"
+              }
+            },
+            {
+              "id": "1329147339550773249",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Curious to know what your book reading routine is - how you take notes, takeaways etc.",
+              "user": {
+                "created_at": "2010-06-01T08:00:31.000Z",
+                "public_metrics": {
+                  "followers_count": 243,
+                  "following_count": 1084,
+                  "tweet_count": 2990,
+                  "listed_count": 2
+                },
+                "username": "@srinathkrishna",
+                "location": "USA",
+                "entities": {
+                  "description": {
+                    "mentions": [
+                      {
+                        "start": 16,
+                        "end": 27,
+                        "username": "salesforce"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Srinath",
+                "pinned_tweet_id": "1270534831156285440",
+                "description": "<img class=\"emoji\" draggable=\"false\" alt=\"👨‍👩‍👧\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f468-200d-1f469-200d-1f467.svg\"/>, Engineer <a href=\"https://twitter.com/salesforce\">@salesforce</a>, <img class=\"emoji\" draggable=\"false\" alt=\"👨‍🎤\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f468-200d-1f3a4.svg\"/>, occasionally <img class=\"emoji\" draggable=\"false\" alt=\"🏏\" src=\"https://twemoji.maxcdn.com/v/13.0.1/svg/1f3cf.svg\"/>. Whining here to be more grateful. <br /><br />If you're a minority looking for help in tech, feel free to DM.",
+                "id": "150573016",
+                "url": "",
+                "verified": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1297943190444490752/z3IJ_FG2.jpg"
+              },
+              "answer": {
+                "id": "1329148195369226240",
+                "tweet": "<a href=\"https://twitter.com/srinathkrishna\">@srinathkrishna</a> I don't take notes. I read for enjoyment, mostly in bed before going to sleep. I pick what to read based on what I feel like reading in the moment. I like rereading books."
+              }
+            }
+          ]
+        },
+        {
+          "id": "1329145540060213248",
+          "tweet": "Punished by Rewards — People hate being controlled with carrots &amp; sticks, and only intrinsic motivation lasts.<br /><br />Man's Search for Meaning — A good life is a story you're proud of.<br /><br />4 Hour Work Week — Design your lifestyle based on your preferences, not on preferences of others.",
+          "replies": []
+        },
+        {
+          "id": "1329145540815142912",
+          "tweet": "Unconditional Parenting — Be on your child's side, unconditionally, all the time.<br /><br />Blue Ocean Strategy — Find uncontested markets.<br /><br />Alchemy — Rational is what works, not what makes sense.<br /><br />Rework — Constraints are advantages in disguise.<br /><br />Hell Yeah or No — Do almost nothing.",
+          "replies": [
+            {
+              "id": "1329211970621370369",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> What's your thoughts on this?<br /><br />Someone told me \"Blue oceans don't stay blue for very long\"<br /><br />Competitors jump into new methods fairly fast negating any blue ocean you find.",
+              "user": {
+                "created_at": "2007-05-20T03:11:02.000Z",
+                "public_metrics": {
+                  "followers_count": 143,
+                  "following_count": 27,
+                  "tweet_count": 600,
+                  "listed_count": 24
+                },
+                "username": "@jameswoobiz",
+                "location": "Kuala Lumpur, Malaysia",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/NKjk4UWeIG",
+                        "expanded_url": "https://jameswoo.net/youtube",
+                        "display_url": "jameswoo.net/youtube"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "James Woo",
+                "description": "I help you leverage tech to create greater Impact in your life via videos and online courses.",
+                "id": "6170562",
+                "url": "https://t.co/NKjk4UWeIG",
+                "verified": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/725255073182289921/rJv9q6Iy.jpg"
+              },
+              "answer": {
+                "id": "1329212366639095808",
+                "tweet": "<a href=\"https://twitter.com/jameswoobiz\">@jameswoobiz</a> Some can become contested, but some are almost impossible to become so. For example, if you manage to embed yourself into the product/service, nobody can copy *you* :)"
+              }
+            },
+            {
+              "id": "1329173858872553472",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Have you successfully applied anything from \"Unconditional Parenting\" or \"Punished by Rewards\"?",
+              "user": {
+                "created_at": "2014-01-14T22:41:04.000Z",
+                "public_metrics": {
+                  "followers_count": 327,
+                  "following_count": 239,
+                  "tweet_count": 240,
+                  "listed_count": 9
+                },
+                "username": "@coinline",
+                "location": "New Zealand",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/hwEP0PHrQ3",
+                        "expanded_url": "http://www.coinline.co.nz",
+                        "display_url": "coinline.co.nz"
+                      }
+                    ]
+                  },
+                  "description": {
+                    "urls": [
+                      {
+                        "start": 59,
+                        "end": 82,
+                        "url": "https://t.co/Jqtg9VTLxD",
+                        "expanded_url": "http://Bitcoin.com",
+                        "display_url": "Bitcoin.com"
+                      },
+                      {
+                        "start": 140,
+                        "end": 163,
+                        "url": "https://t.co/q0InheSmCB",
+                        "expanded_url": "https://twetch.app/u/3235",
+                        "display_url": "twetch.app/u/3235"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Brendon Duncan",
+                "pinned_tweet_id": "1208452114868867073",
+                "description": "Building the future on Bitcoin. Former wallet developer at <a href=\"http://Bitcoin.com\" class=\"description-link\" rel=\"noopener noreferrer\">Bitcoin.com</a> and Tokenized. Paymail: brendon@moneybutton.com. Twetch: <a href=\"https://twetch.app/u/3235\" class=\"description-link\" rel=\"noopener noreferrer\">twetch.app/u/3235</a>",
+                "id": "2291790158",
+                "url": "https://t.co/hwEP0PHrQ3",
+                "verified": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1294116352068694016/8RR33pNg.jpg"
+              },
+              "answer": {
+                "id": "1329174116453154816",
+                "tweet": "<a href=\"https://twitter.com/coinline\">@coinline</a> Yes, everything :) — Both books have been very inspiration about understanding motivation, both at work and on parenting."
+              }
+            },
+            {
+              "id": "1329150562059816963",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> Unconditional Parenting — Be on your child's side, unconditionally, all the time.<br /><br />I agree with the above BUT my kids lots of times think I am against them.  Being on their side is another way of saying love them, I think.",
+              "user": {
+                "created_at": "2010-11-11T20:34:52.000Z",
+                "public_metrics": {
+                  "followers_count": 1488,
+                  "following_count": 373,
+                  "tweet_count": 15433,
+                  "listed_count": 19
+                },
+                "username": "@@Jed_Trott",
+                "protected": false,
+                "name": "Jed \"Sixteen Tons\" Trott",
+                "pinned_tweet_id": "1288955394698731527",
+                "description": "Blessed to be a Dad with 9 kids.  Decentralized is better than smaller. Phenomenology is the best epistomology. To thrive, you must first survive.",
+                "id": "214612596",
+                "url": "",
+                "verified": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1161690964148310016/soxCZqfk.jpg"
+              },
+              "answer": {
+                "id": "1329152615867793408",
+                "tweet": "<a href=\"https://twitter.com/Jed_Trott\">@Jed_Trott</a> The author's argument is that it's important for kids to not think you're against them. One of the reasons is that they likely would chose their friends over you for important advice if they feel you're not unconditionally on their side. ... Doesn't mean you always agree ..."
+              }
+            }
+          ]
+        },
+        {
+          "id": "1329145541729558528",
+          "tweet": "Fooled by Randomness — Things are more random than they seem.<br /><br />Black Swan — Almost all consequential events are unpredictable.<br /><br />Antifragile — Some things benefit from shocks &amp; variations, and you can be like that too.<br /><br />Skin in the Game — Risk exposure makes you smarter.",
+          "replies": [
+            {
+              "id": "1329275572216709120",
+              "tweet": "<a href=\"https://twitter.com/dvassallo\">@dvassallo</a> ‘Drive’ by Daniel Pink feels like it’d be right up your alley. I loved it.",
+              "user": {
+                "created_at": "2015-12-26T04:25:34.000Z",
+                "public_metrics": {
+                  "followers_count": 64,
+                  "following_count": 94,
+                  "tweet_count": 303,
+                  "listed_count": 1
+                },
+                "username": "@johnnydecimal",
+                "location": "Canberra, Australia",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/69CHmbJLZU",
+                        "expanded_url": "https://johnnydecimal.com",
+                        "display_url": "johnnydecimal.com"
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "name": "Johnny “Decimal” Noble",
+                "description": "A system to organise projects.",
+                "id": "4653159368",
+                "url": "https://t.co/69CHmbJLZU",
+                "verified": false,
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1280417961807720448/_1RQYqFU.jpg"
+              },
+              "answer": {
+                "id": "1329280164576980992",
+                "tweet": "<a href=\"https://twitter.com/johnnydecimal\">@johnnydecimal</a> Yep, very similar to punished by rewards. Great book too."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

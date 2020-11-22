@@ -144,4 +144,3 @@ lib
 yarn.lock
 package-lock.json
 *.pdf
-thread.json
