@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet } from '@react-pdf/renderer';
-import { View, Text } from './shared';
+import { View, Text as span } from './shared';
 
 const styles = StyleSheet.create({
   tweetContainer: {
@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
 function Tweet({ id, created_at, tweet }) {
   return (
     <View style={styles.tweetContainer}>
-      <Text>{tweet.replace(/<\/?[^>]+(>|$)/g, '')}</Text>
+      <span dangerouslySetInnerHTML={{ __html: tweet.replace(/<\/?[^>]+(>|$)/g, '') }}></span>
     </View>
   );
 }
