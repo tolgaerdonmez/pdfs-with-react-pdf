@@ -1,9 +1,11 @@
 import React from "react";
-import { View, Text, StyleSheet } from "@react-pdf/renderer";
+import { StyleSheet } from "@react-pdf/renderer";
+import { View, Text } from "./shared";
 
 const styles = StyleSheet.create({
   tweetContainer: {
-    marginVertical: 10,
+    marginTop: 10,
+    marginBottom: 10,
   },
 });
 

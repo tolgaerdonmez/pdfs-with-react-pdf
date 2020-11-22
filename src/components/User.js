@@ -1,5 +1,6 @@
 import React from "react";
-import { View, Image, Text, StyleSheet } from "@react-pdf/renderer";
+import { StyleSheet } from "@react-pdf/renderer";
+import { View, Text, Image } from "./shared";
 
 const styles = StyleSheet.create({
   userContainer: {

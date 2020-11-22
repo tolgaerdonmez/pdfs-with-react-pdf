@@ -1,5 +1,6 @@
 import React from "react";
-import { Document, Page, StyleSheet, View } from "@react-pdf/renderer";
+import { View } from "./shared";
+import { StyleSheet } from "@react-pdf/renderer";
 
 import Tweet from "./Tweet";
 import User from "./User";
@@ -19,20 +20,16 @@ const styles = StyleSheet.create({
 
 function Thread() {
   return (
-    <Document>
-      <Page size="A4" style={styles.page}>
-        <View style={styles.section}>
-          {thread.map(({ data, common }, i) => (
-            <View key={i.toString()}>
-              <User {...common.user} />
-              {data.map((t) => (
-                <Tweet {...t} key={t.id} />
-              ))}
-            </View>
+    <View style={styles.section}>
+      {thread.map(({ data, common }, i) => (
+        <View key={i.toString()}>
+          <User {...common.user} />
+          {data.map((t) => (
+            <Tweet {...t} key={t.id} />
           ))}
         </View>
-      </Page>
-    </Document>
+      ))}
+    </View>
   );
 }
 
