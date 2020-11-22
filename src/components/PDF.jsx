@@ -1,10 +1,10 @@
-import React from "react";
-import { Document, Page, StyleSheet } from "@react-pdf/renderer";
+import React from 'react';
+import { Document, Page, StyleSheet } from '@react-pdf/renderer';
 
 const styles = StyleSheet.create({
   page: {
-    flexDirection: "row",
-    backgroundColor: "#fff",
+    flexDirection: 'row',
+    backgroundColor: '#fff',
     padding: 20,
   },
   section: {

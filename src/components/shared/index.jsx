@@ -1,15 +1,16 @@
-import React from "react";
+import React from 'react';
 import {
   Text as PDFText,
   View as PDFView,
   Image as PDFImage,
-} from "@react-pdf/renderer";
+  Link as PDFLink,
+} from '@react-pdf/renderer';
 
-const useHtml = process.env.USE_HTML === "true";
+const useHtml = process.env.USE_HTML === 'true';
 
 export function Text({ children, ...props }) {
   if (useHtml) {
-    return <p {...props}>{children}</p>;
+    return <p {...props} dangerouslySetInnerHTML={{ _html: children }}></p>;
   }
   return <PDFText {...props}>{children}</PDFText>;
 }
@@ -26,4 +27,16 @@ export function Image({ children, ...props }) {
     return <img {...props}>{children}</img>;
   }
   return <PDFImage {...props}>{children}</PDFImage>;
+}
+
+export function Link({ children, href, ...props }) {
+  if (useHtml) {
+    return <a {...props}>{children}</a>;
+  }
+
+  return (
+    <PDFLink src={href} {...props}>
+      {children}
+    </PDFLink>
+  );
 }
