@@ -1,9 +1,10 @@
 {
   "name": "pdfs-with-react-pdf",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "src/index.jsx",
   "dependencies": {
     "@react-pdf/renderer": "^1.6.12",
+    "dotenv": "^8.2.0",
     "epub-gen": "^0.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
